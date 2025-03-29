@@ -1,4 +1,4 @@
-# Fashion_Store-Performance-Dash-Board-2022
+# Fashion_Store-Sales-Dash-Board-2022
 
 # **Business Requirements**
 
