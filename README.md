@@ -18,6 +18,6 @@
 4) Amazon, Flipkart, and Myntra are the leading contributors (~80%).
 
 # **Conclusion:**
-    To improve Vrinda store sales. 
+    To improve Fashion_Store Sales
     Target women customers aged 30-49, living in Maharashtra, Karnataka, and Uttar Pradesh.
     Focus efforts on advertising, offers, or coupons on Amazon, Flipkart, and Myntra.
